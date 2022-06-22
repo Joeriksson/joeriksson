@@ -1,14 +1,22 @@
 ### Welcome to my GitHub Profile 👋
 
+
+
+I am passionate about Python, Django, and FastAPI development. Started learning Python around 2018. Did a couple of #100DaysOfCode during 2019. Have been writing a few articles on my own blog, as well as a guest writer at https://testdriven.io.
+
+- [Handling Periodic Tasks in Django with Celery and Docker](https://testdriven.io/blog/django-celery-periodic-tasks/)
+- [Caching in Django](https://testdriven.io/blog/django-caching/)
+- [Low-Level Cache API in Django](https://testdriven.io/blog/django-low-level-cache/)
+- [Debugging a Containerized Django App in PyCharm](https://testdriven.io/blog/django-debugging-pycharm/)
+- [Debugging a Containerized Django App in VS Code](https://testdriven.io/blog/django-debugging-vs-code/)
+
+*Technologies I mostly use:*
 <div>
   <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg title="Python" alt="Python" width="40" height="40" />
   <img src=https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg title="Django" alt="Django" width="40" height="40" />
   <img src=https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg title="Django" alt="Django" width="40" height="40" />
   
 </div>
-<p></p>
-I am passionate about Python, Django, and FastAPI development. Started learning Python around 2018. Did a couple of #100DaysOfCode during 2019. Have been writing a few articles on my own blog, as well as a guest writer at https://testdriven.io.
-
 <p></p>
 How to reach me:
 
