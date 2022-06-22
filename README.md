@@ -8,7 +8,7 @@
 </div>
 
 <p></p>
-How to reach me
+How to reach me:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/j-oeriksson/">
