@@ -19,7 +19,7 @@ I am passionate about Python, Django, and FastAPI development. Started learning 
 </div>
 <p></p>
 How to reach me:
-
+<p></p>
 <div id="badges">
   <a href="https://www.linkedin.com/in/j-oeriksson/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
