@@ -1,4 +1,19 @@
-### Hi there 👋
+### Welcome to my GitHub Profile 👋
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/j-oeriksson/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://joeriksson.io">
+    <img src="https://img.shields.io/badge/blog-red?style=for-the-badge&logo=web&logoColor=white" alt="web Badge"/>
+  </a>
+  
+  
+  <a href="https://twitter.com/Wildvasa">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <!--
 **Joeriksson/joeriksson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
