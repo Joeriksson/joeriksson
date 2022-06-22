@@ -6,6 +6,8 @@
   <img src=https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg title="Django" alt="Django" width="40" height="40" />
   
 </div>
+<p></p>
+I am passionate about Python, Django, and FastAPI development. Started learning Python around 2018. Did a couple of #100DaysOfCode during 2019. Have been writing a few articles on my own blog, as well as a guest writer at https://testdriven.io.
 
 <p></p>
 How to reach me:
