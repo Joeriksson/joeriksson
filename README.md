@@ -35,7 +35,7 @@ How to reach me:
   </a>
 </div>
 
-
+<a rel="me" href="https://fosstodon.org/@Wildvasa">Mastodon</a>
 
 <!--
 **Joeriksson/joeriksson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
